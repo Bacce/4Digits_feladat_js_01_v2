@@ -1,0 +1,57 @@
+div#wordinput{
+	background-color:#ddd;
+	height:100px;
+	width:580px;
+	margin:5px;
+	padding:10px;
+	text-align:center;
+}
+
+div#header{
+	background-color:#ddd;
+	height:100px;
+	width:580px;
+	margin:5px;
+	padding:10px;
+}
+
+div#highscore{
+	background-color:#ddd;
+	min-height:100px;
+	height:auto;
+	width:580px;
+	padding:10px;
+	margin:5px;
+}
+
+div#admin{
+	position:fixed;
+	left:10px;
+	top:10px;
+	background-color:#ccc;
+	height:200px;
+	width:200px;
+	padding:10px;
+	margin:5px;
+	border:1px solid;
+}
+
+div#container{
+	background-color:#eee;
+	margin-left:auto;
+	margin-right:auto;
+	width:610px;
+	padding:20px;
+}
+
+h2{
+	margin:0px;
+}
+
+h3{
+	margin:5px;
+}
+
+input#inputletters{
+	width:100%;
+}
